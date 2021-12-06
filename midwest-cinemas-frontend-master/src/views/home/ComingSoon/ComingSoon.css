@@ -1,0 +1,8 @@
+.comingsoonbox{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.cardbox {
+    margin: auto;
+}

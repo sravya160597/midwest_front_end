@@ -1,0 +1,14 @@
+.left_deatil{
+    width: 704px;
+    height: auto;
+    float: left;
+    margin-right: 15px;
+    padding-left: 26px;
+    text-align: left;
+}
+.right_detail{
+    width: 240px;
+    height: auto;
+    float: left;
+    text-align: left;
+}

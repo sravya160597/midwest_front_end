@@ -1,0 +1,76 @@
+.features {
+    text-align: center;
+  }
+  
+  .features .header {
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+    border-radius: 50%;
+    text-align: center;
+    background-color: #fff;
+    color: #6C55F9;
+    font-size: 24px;
+    box-shadow: 0 2px 4px rgba(95, 92, 120, 0.16);
+  }
+  .crew-row{
+      display: flex;
+  }
+  .zoomIn{
+      margin: auto;
+  }
+  .features h5 {
+    color: #2D2B3A;
+  }
+  
+  .features p {
+    font-size: 13px;
+    color: #898798;
+  }
+  .mai-business:before {
+    content: "\e961";
+  }
+  .mai-business-outline:before {
+    content: "\e962";
+  }
+ 
+  .Mainbox{
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      text-align: justify;
+      /* padding: 80px 0px 10px 0px; */
+      background-color: #F0EFF4;
+      margin: 10px 171px;
+  }
+  .secondword{
+    font-size: 13px;
+    color: #000;
+    font-family: RobotoRegular;
+    font-weight: bold;
+  }
+  .firstword{
+    font-size: 12px;
+    color: #828282;
+    font-family: Robotolight;
+    padding-right: 10px;
+  }
+  .singleline{
+    width: auto;
+    height: auto;
+    padding: 7px 0px 3px 6px;
+    padding-top: 15px;
+  }
+  .video_box{
+      margin: 0px auto;
+  }
+  @media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+    iframe{
+        width: 300px !important;
+        height: auto !important;
+    }
+  }

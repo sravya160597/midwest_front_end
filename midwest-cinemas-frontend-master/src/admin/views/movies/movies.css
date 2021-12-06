@@ -1,0 +1,24 @@
+.add-button{
+    margin: 20px;
+    
+}
+.pop-box {
+    position: absolute;
+    top: 34%;
+    left: 8%;
+    z-index: 1;
+}
+.h3{
+    margin-left: 20px !important;
+    margin-top: 10px;
+}
+.row{
+    margin-top: auto;
+    padding: 10px 10px;
+}
+.addbtn{
+    margin-left: 20px;
+}
+.close-popup{
+    float: right;
+}
